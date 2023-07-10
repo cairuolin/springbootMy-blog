@@ -1,0 +1,10 @@
+首页
+	添加分类：教程（界面参照首页界面）
+后台
+	添加发布教程，教程管理（界面参照发布文章、文章管理）
+数据库
+	添加教程表，其他的（文章标签、文章分类与文章表共用）
+
+
+swagger参考文档
+    https://www.cnblogs.com/progor/p/132admin/article/publish97904.html
